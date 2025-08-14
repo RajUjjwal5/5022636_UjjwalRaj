@@ -1,1 +1,4 @@
 
+git add images/myphoto.png
+git commit -m "Screenshot 2025-07-29 125952.png"
+git push
